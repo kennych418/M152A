@@ -7,4 +7,4 @@ Simulations were done using iMPACT through Xilinx's IDE.
 Grades:
 Lab 1 - 100/100
 Lab 2 - 87/100
-Lab 2 - 99/100
+Lab 3 - 99/100
